@@ -1,1 +1,19 @@
 
+# 💫 About Me:
+I am a passionate and driven MCA student with a strong interest in Artificial Intelligence, Cloud Computing, and Full-Stack Development. Currently, I am enhancing my skills in Python, JavaScript,Node.js, MongoDB, and various machine learning frameworks while working on projects that bridge the gap between theory and real-world application.<br><br>I completed my B.Sc. in Computer Science from Government Degree College (Men), Srikakulam. I have always been interested by coding, web technologies, and programming, which has motivated me to develop both my technical expertise and problem-solving abilities. I enjoy building solutions that are efficient, scalable, and innovative, combining creativity with analytical thinking.<br><br>💠 Technical Skills: HTML, CSS, JavaScript, Flexbox, Bootstrap, Python, MySQL, Node.js, Express.js, MongoDB<br>💠 Soft Skills: Communication, Problem Solving, Analytical Thinking, Leadership, Team Management<br>💠 Career Goal: To become a skilled AI professional contributing to impactful and scalable solutions in the tech industry, while securing a high-paying position in a top company.<br><br>I am eager to connect with like-minded professionals and organizations at the forefront of AI and technology, exploring opportunities to learn, innovate, and make a meaningful impact.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kumarswami-gandupalli-77bb19248) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnaraogandupalli2000@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krishna-git-2468&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krishna-git-2468&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-git-2468&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=krishna-git-2468&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
